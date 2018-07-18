@@ -1,7 +1,7 @@
 ### Custom Word Count   
 
-* This assignment analysis consists of the following files. <br />
-i. Ashok-Vishnhav-Week-05-Analysis.pdf <br />
+* This analysis consists of the following files. <br />
+i. Analysis.pdf <br />
 ii. modified WordCountTop4.java <br />
 iii. Patterns.txt <br />
 iv. Output zip file with all 4 iterations. <br />
