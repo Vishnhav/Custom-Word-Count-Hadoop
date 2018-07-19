@@ -8,7 +8,7 @@ iv. Output zip file with all 4 iterations. <br />
 
 ### Steps To Reproduce: <br />
 
-* **Step 1:** Clone this repo onto your work machine. (https://github.com/illinoistech-itm/vashok1.git) <br />
+* **Step 1:** Clone this repo onto your work machine. (https://github.com/Vishnhav/Custom-Word-Count-Hadoop) <br />
 * **Step 2:** Copy WordCountTop4.java into /vagrant_data/ shared folder. <br />
 * **Step 3:** Copy Patterns.txt and Word.txt to the HDFS file system. <br />
 * **Step 4:** Convert the WordCountTop4.java into a '.jar' file and run the jar file to get the top ~10 words in the Words.txt. This .java file is based on WordCount1 example in the hadoop tutorial website. <br />
